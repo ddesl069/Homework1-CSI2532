@@ -30,3 +30,29 @@
 #Added join_date in the parameter to run the function.
 
 ![image of B1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part2/partB1.c).PNG)
+
+#PartB2
+
+#a)
+
+```sql 
+  SELECT name FROM users WHERE join_date < '2020-01-01'
+  ```
+  
+#b)
+
+```sql
+  SELECT name, COUNT(user_id)as FROM users LEFT JOIN licenses on users.id = licenses.user_id
+  GROUP BY name, id having count(*) >0 ORDER by COUNT(USER_id) DESC, name ASC;
+  ```
+  
+#c)
+
+![]()
+
+```sql
+  UPDATE softwares
+  SET versions = '51', released_date = '2020-01-01'
+  WHERE name = 'Sketch';
+  ```
+  
