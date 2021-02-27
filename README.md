@@ -8,4 +8,4 @@ b)
 ![A1b)](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1b)%20(Homework1).png)
 
 c)
-![A1c)]()
+![A1c)](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1c)%20(Homework1).png)
