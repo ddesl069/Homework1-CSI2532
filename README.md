@@ -5,7 +5,7 @@
 
 #a)
 
-![A1a](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1a)%20(Homework1).png)
+![Image of A1](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1a)%20(Homework1).png)
 
 #b)
 
