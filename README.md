@@ -22,3 +22,4 @@
 #B1b)
 
 #Here is the output.
+![image of B1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part2/partB1.b).PNG)
