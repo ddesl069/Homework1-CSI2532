@@ -14,3 +14,11 @@
 #c)
 
 ![A1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1c)%20(Homework1).png)
+
+#Part B
+
+#B1a)
+
+#B1b)
+
+#Here is the output.
