@@ -5,15 +5,15 @@
 
 #a)
 
-![Image of A1]()
+
 
 #b)
 
-![A1b]()
+
 
 #c)
 
-![A1c]()
+
 
 #Part B
 
@@ -23,13 +23,13 @@
 
 #Here is the output.
 
-![image of B1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part2/partB1.b).PNG)
+
 
 #B1c)
 
 #Added join_date in the parameter to run the function.
 
-![image of B1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part2/partB1.c).PNG)
+
 
 #PartB2
 
@@ -48,7 +48,6 @@
   
 #c)
 
-![outpout image](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part2/PartB2.c).PNG?raw=true)
 
 ```sql
   UPDATE softwares
