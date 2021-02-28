@@ -15,38 +15,42 @@ c)
 
 ![image a1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partA/a1c.png)
 
-#Part B
+A2
 
-#B1a)
+![image a2](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partA/a2.png)
 
-#B1b)
+Part B
 
-#Here is the output.
+B1a)
 
+B1b)
 
-
-#B1c)
-
-#Added join_date in the parameter to run the function.
+Here is the output.
 
 
 
-#PartB2
+B1c)
 
-#a)
+Added join_date in the parameter to run the function.
+
+
+
+PartB2
+
+a)
 
 ```sql 
   SELECT name FROM users WHERE join_date < '2020-01-01'
   ```
   
-#b)
+b)
 
 ```sql
   SELECT name, COUNT(user_id)as FROM users LEFT JOIN licenses on users.id = licenses.user_id
   GROUP BY name, id having count(*) >0 ORDER by COUNT(USER_id) DESC, name ASC;
   ```
   
-#c)
+c)
 
 
 ```sql
