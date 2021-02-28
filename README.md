@@ -9,7 +9,7 @@ A1
 
 a)
 
-"https://user-images.githubusercontent.com/64750637/109406414-d699b000-7946-11eb-8dac-a896339cf45d.png"
+![a1a]("https://user-images.githubusercontent.com/64750637/109406414-d699b000-7946-11eb-8dac-a896339cf45d.png")
 
 b)
 
