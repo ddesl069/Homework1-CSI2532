@@ -5,15 +5,15 @@ A1
 
 a)
 
-![image a1a](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1a)%20(Homework1).png)
+![aa]()
 
 b)
 
-![image a1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1b)%20(Homework1).png)
+![image a1b]()
 
 c)
 
-![image a1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1c)%20(Homework1).png)
+![image a1c]()
 
 #Part B
 
