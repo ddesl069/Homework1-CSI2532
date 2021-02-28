@@ -56,3 +56,44 @@
   WHERE name = 'Sketch';
   ```
   
+Part b3
+
+a)
+
+```sql
+ALTER TABLE licenses
+ADD COLUMN s_version varchar(100);
+DROP TABLE licenses;
+CREATE TABLE licenses (
+ user_id int REFERENCES users (id),
+ software_name varchar(200),
+ access_code varchar(100),
+ PRIMARY KEY (user_id, software_name)
+);
+ALTER TABLE licenses
+ADD COLUMN s_version varchar(100);
+
+INSERT INTO licenses (user_id, software_name, access_code, s_version)
+VALUES 
+(48,'MS Word','abcd123','2012'),
+(49,'MS Word', 'def459','2012'),
+(50, 'MS Word', 'hij789','2012'),
+(48, 'Sketch', 'x1y2z3', '51'),
+(51, 'Sketch', 'x2y3z4', '51'),
+(54, 'Chrome', 'dfg299', 'v84');
+```
+b)
+
+```sql
+  ALTER TABLE softwares DROP CONSTRAINT softwares_pkey;
+  ALTER TABLE softwares ADD PRIMARY KEY (name, version);
+```
+
+c)
+
+d)
+
+```sql
+  INSERT INTO licenses (user_id, software_name, access_code, s_version) 
+  SELECT id, 'Sketch', '1monthfree', '52' FROM users ON CONFLICT DO NOTHING;
+```
