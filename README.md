@@ -28,6 +28,7 @@ B1a)
 B1b)
 
 Here is the output.
+
 ![image of b1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1b.png)
 
 
