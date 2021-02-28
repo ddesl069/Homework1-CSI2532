@@ -13,8 +13,7 @@ a)
 
 b)
 
-![image a1b](<img width="495" alt="a1b" src="https://user-images.githubusercontent.com/64750637/109406305-ec5aa580-7945-11eb-9dc9-a06fed36148a.png">
-)
+![image a1b](<img width="495" alt="a1b" src="https://user-images.githubusercontent.com/64750637/109406305-ec5aa580-7945-11eb-9dc9-a06fed36148a.png">)
 
 c)
 
