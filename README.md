@@ -23,6 +23,8 @@ Part B
 
 B1a)
 
+![image of b1a](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1a.png)
+
 B1b)
 
 Here is the output.
