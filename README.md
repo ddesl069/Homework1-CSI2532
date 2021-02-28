@@ -1,3 +1,4 @@
+
 # Homework1-CSI2532
 
 Dante Deslauriers 300114162
@@ -8,8 +9,7 @@ A1
 
 a)
 
-![a1a](<img width="505" alt="a1a" src="https://user-images.githubusercontent.com/64750637/109406297-dfd64d00-7945-11eb-8b70-9f1231a11d24.png">
-)
+![a1a]("https://user-images.githubusercontent.com/64750637/109406414-d699b000-7946-11eb-8dac-a896339cf45d.png")
 
 b)
 
