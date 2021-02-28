@@ -9,8 +9,7 @@ A1
 
 a)
 
-![a1a](<img width="505" alt="a1a" src="https://user-images.githubusercontent.com/64750637/109406592-4e1c0f00-7948-11eb-8eb2-c3195bd0fb91.png">
-)
+![a1a](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partA/a1a.png)
 
 b)
 
