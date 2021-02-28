@@ -26,14 +26,14 @@ B1a)
 B1b)
 
 Here is the output.
-
+![image of b1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1b.png)
 
 
 B1c)
 
 Added join_date in the parameter to run the function.
 
-
+![iamge of b1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1c.png)
 
 PartB2
 
@@ -52,6 +52,7 @@ b)
   
 c)
 
+![iamge of b2c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b2c.png)
 
 ```sql
   UPDATE softwares
