@@ -13,39 +13,34 @@ a)
 
 b)
 
-![image a1b](<img width="495" alt="a1b" src="https://user-images.githubusercontent.com/64750637/109406305-ec5aa580-7945-11eb-9dc9-a06fed36148a.png">)
+![image a1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partA/a1b.png)
 
 c)
 
-![image a1c](<img width="482" alt="a1c" src="https://user-images.githubusercontent.com/64750637/109406311-f54b7700-7945-11eb-8ab5-878d314861e8.png">
-)
+![image a1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partA/a1c.png)
 
 A2
 
-![image a2](<img width="488" alt="a2" src="https://user-images.githubusercontent.com/64750637/109406313-fc728500-7945-11eb-8a0b-585e8bc396da.png">
-)
+![image a2](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partA/a2.png)
 
 Part B
 
 B1a)
 
-![image of b1a](<img width="62" alt="b1a" src="https://user-images.githubusercontent.com/64750637/109406321-0a280a80-7946-11eb-97f5-e8b1a6be2e35.png">
-)
+![image of b1a](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1a.png)
 
 B1b)
 
 Here is the output.
 
-![image of b1b](<img width="275" alt="b1b" src="https://user-images.githubusercontent.com/64750637/109406327-10b68200-7946-11eb-9255-90f32c74398a.png">
-)
+![image of b1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1b.png)
 
 
 B1c)
 
 Added join_date in the parameter to run the function.
 
-![iamge of b1c](<img width="174" alt="b1c" src="https://user-images.githubusercontent.com/64750637/109406331-18762680-7946-11eb-8610-0e7d71236dda.png">
-)
+![iamge of b1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b1c.png)
 
 PartB2
 
@@ -64,8 +59,7 @@ b)
   
 c)
 
-![iamge of b2c](<img width="151" alt="b2c" src="https://user-images.githubusercontent.com/64750637/109406336-23c95200-7946-11eb-95b4-0fccf13a5813.png">
-)
+![iamge of b2c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/partB/b2c.png)
 
 ```sql
   UPDATE softwares
