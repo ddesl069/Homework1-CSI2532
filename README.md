@@ -98,6 +98,11 @@ b)
 
 c)
 
+```sql
+  INSERT INTO licenses(user_id, software_name, access_code, s_version)
+  SELECT DISTINCT user_id, 'Sketch', '1monthfree', '52' FROM licenses
+  WHERE software_name = 'Sketch' AND s_version <> 52;
+```
 d)
 
 ```sql
