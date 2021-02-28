@@ -46,8 +46,7 @@ a)
 b)
 
 ```sql
-  SELECT name, COUNT(user_id)as FROM users LEFT JOIN licenses on users.id = licenses.user_id
-  GROUP BY name, id having count(*) >0 ORDER by COUNT(USER_id) DESC, name ASC;
+  SELECT  name, COUNT(user_id)as num FROM users LEFT JOIN licenses ON users.id = licenses.user_id GROUP BY name, id having count(*) > 0 ORDER by COUNT(user_id) DESC, name ASC;
   ```
   
 c)
