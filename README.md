@@ -1,19 +1,19 @@
 # Homework1-CSI2532
-#Part A
+Part A
 
-#A1
+A1
 
-#a)
+a)
 
+![image a1a](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1a)%20(Homework1).png)
 
+b)
 
-#b)
+![image a1b](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1b)%20(Homework1).png)
 
+c)
 
-
-#c)
-
-
+![image a1c](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part1(ER)/E-R%20A1c)%20(Homework1).png)
 
 #Part B
 
