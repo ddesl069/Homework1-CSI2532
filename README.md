@@ -1,4 +1,7 @@
 # Homework1-CSI2532
+
+Dante Deslauriers 300114162
+
 Part A
 
 A1
