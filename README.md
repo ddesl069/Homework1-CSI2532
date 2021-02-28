@@ -48,7 +48,7 @@
   
 #c)
 
-![]()
+![outpout image](https://github.com/ddesl069/Homework1-CSI2532/blob/main/part2/PartB2.c).PNG?raw=true)
 
 ```sql
   UPDATE softwares
